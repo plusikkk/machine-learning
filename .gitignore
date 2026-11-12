@@ -1,0 +1,16 @@
+# Віртуальне середовище
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Датасет і кеші (великі, скрипти створюють їх заново)
+data/
+cache/
+
+# macOS та редактор
+.DS_Store
+.vscode/
